@@ -1,1 +1,1 @@
-'deu certo'
+alert('deu certo')
