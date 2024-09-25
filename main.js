@@ -13,6 +13,7 @@ let media= function (num1, num2, num3){
 }
 let nome=prompt("nome")
 document.write(nome)
+parseInt(prompt(''))
 console.log(soma(3,4))
 console.log(multi(4,5))
 console.log(areaquadrado(5))
