@@ -9,7 +9,7 @@ function areaquadrado(lado){
     return lado**2
 }
 let media= function (num1, num2, num3){
-    return num1+num2+num3/3
+    return (num1+num2+num3)/3
 }
 console.log(soma(3,4))
 console.log(multi(4,5))
