@@ -14,4 +14,4 @@ let media= function (num1, num2, num3){
 console.log(soma(3,4))
 console.log(multi(4,5))
 console.log(areaquadrado(5))
-console.log(media(3,4,4))
+console.log(media(4,4,4))
