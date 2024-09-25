@@ -13,7 +13,7 @@ let media= function(num1, num2, num3){
 }
 let nome=prompt("Qual Média vc quer?")
 parseInt(prompt(media))
-document.write(nome)
+document.write(media)
 parseInt(prompt('media'))
 console.log(soma(3,4))
 console.log(multi(4,5))
