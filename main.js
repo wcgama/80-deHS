@@ -26,6 +26,4 @@ function media(x,y,z){
     return(x+y+z)/3
 }
 document.write(media(num1,num2,num3))
-let estados =['PR','SC','BH','RJ','SP','AM','RS','AC','AL','AP','BA','CE','DF','ES','GO','MA','MT','MS','MG','PA','PB','PE','PI','RN','RO','RR','SE','TO'] 27
-estados.length = 27
-estados[1]
+let estados =['PR','SC','BH','RJ','SP','AM','RS','AC','AL','AP','BA','CE','DF','ES','GO','MA','MT','MS','MG','PA','PB','PE','PI','RN','RO','RR','SE','TO'] 
