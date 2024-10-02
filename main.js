@@ -37,7 +37,7 @@
 //     console.log(i)
 //     console.log(estados[i])
 // }
-let idade = ('digite sua idade')
+let idade = 19
 if(idade>17){
     console.log('Pode Dirigir')
 }
