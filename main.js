@@ -27,3 +27,9 @@ function media(x,y,z){
 }
 document.write(media(num1,num2,num3))
 let estados =['PR','SC','BH','RJ','SP','AM','RS','AC','AL','AP','BA','CE','DF','ES','GO','MA','MT','MS','MG','PA','PB','PE','PI','RN','RO','RR','SE','TO'] 
+let i=0
+while( i<5){
+    console.log(i)
+    console.log(estados[i])
+    i=i+1
+}
